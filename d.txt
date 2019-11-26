@@ -1,1 +1,3 @@
 The file added on develop branch before created the new branch "develop2".
+
+Added some more text.
